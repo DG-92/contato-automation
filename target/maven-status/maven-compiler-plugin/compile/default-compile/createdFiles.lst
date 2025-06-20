@@ -1,0 +1,5 @@
+pages\AddContactPage.class
+pages\BasePage.class
+pages\ContactsListPage.class
+utils\TestDataHelper.class
+utils\DriverManager.class
